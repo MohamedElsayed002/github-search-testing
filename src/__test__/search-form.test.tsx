@@ -2,7 +2,6 @@ import { render , screen} from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { vi } from 'vitest'
 import SearchForm from '@/components/form/search-form'
-import { toast, useToast } from '@/hooks/use-toast'
 
 const mockToast = vi.fn()
 const setUserNameMock = vi.fn()
