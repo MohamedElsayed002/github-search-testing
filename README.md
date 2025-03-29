@@ -5,3 +5,12 @@ This project is a GitHub user search application built primarily to practice and
 
 ## Live Demo
 Explore the app live <a href="https://github-search-testing.vercel.app/">Project</a>
+<br/>
+
+## About the Project
+### This project is designed to test every aspect of the application, including:
+
+`API calls` – Ensuring accurate data fetching using Vitest and MSW (Mock Service Worker)
+`Components` – Unit and integration testing for UI elements using React Testing Library
+`State Management` – Ensuring proper state updates and handling edge cases
+`Error Handling` – Testing how the app behaves with incorrect usernames or API failures
