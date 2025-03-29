@@ -8,9 +8,9 @@ Explore the app live <a href="https://github-search-testing.vercel.app/">Project
 <br/>
 
 ## About the Project
-### This project is designed to test every aspect of the application, including:
+### This project is designed to test every aspect of the application, including: <br/>
 
-`API calls` – Ensuring accurate data fetching using Vitest and MSW (Mock Service Worker)
-`Components` – Unit and integration testing for UI elements using React Testing Library
-`State Management` – Ensuring proper state updates and handling edge cases
-`Error Handling` – Testing how the app behaves with incorrect usernames or API failures
+`API calls` – Ensuring accurate data fetching using Vitest and MSW (Mock Service Worker) <br/>
+`Components` – Unit and integration testing for UI elements using React Testing Library <br/>
+`State Management` – Ensuring proper state updates and handling edge cases <br/>
+`Error Handling` – Testing how the app behaves with incorrect usernames or API failures <br/>
