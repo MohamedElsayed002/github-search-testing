@@ -10,7 +10,7 @@ Explore the app live <a href="https://github-search-testing.vercel.app/">Project
 <br/>
 <hr/>
 
-## 1️⃣ Installation & Setup Guide
+##  Installation & Setup Guide
 
 ### Clone the project  
 ```bash
@@ -52,3 +52,9 @@ npm run test
 - Display user profile details, including repositories and followers
 - Charts for popular repositories and used programming languages
 - Fully tested with Vitest and MSW
+<hr/>
+
+###  Tech Stack 🛠
+- Frontend: React, Vite
+- Testing: Vitest, MSW, React Testing Library
+- Styling: Tailwind CSS
