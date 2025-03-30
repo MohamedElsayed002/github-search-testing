@@ -7,21 +7,6 @@ This project is a GitHub user search application built primarily to practice and
 Explore the app live <a href="https://github-search-testing.vercel.app/">Project</a>
 <br/>
 <hr/>
-## 1️⃣ Installation & Setup Guide
-```
-# Clone project
-git clone https://github.com/MohamedElsayed002/github-search-testing
-
-# Navigate to the project directory
-cd github-user-search
-
-# Start the development server
-npm run dev
-
-# For testing 
-npm run test
-
-```
 
 <hr/>
 
