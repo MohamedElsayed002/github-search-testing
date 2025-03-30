@@ -15,6 +15,25 @@ Explore the app live <a href="https://github-search-testing.vercel.app/">Project
 git clone https://github.com/MohamedElsayed002/github-search-testing
 ```
 
+###  Navigate to the project directory
+```bash
+cd github-user-search
+```
+
+### Install dependencies
+```bash
+npm install
+```
+
+### Start the development server
+```bash
+npm run dev 
+```
+
+### Start testing the project
+```bash
+npm run test
+```
 <hr/>
 
 ## About the Project
