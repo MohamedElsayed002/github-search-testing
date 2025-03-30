@@ -14,3 +14,4 @@ Explore the app live <a href="https://github-search-testing.vercel.app/">Project
 `Components` – Unit and integration testing for UI elements using React Testing Library <br/>
 `State Management` – Ensuring proper state updates and handling edge cases <br/>
 `Error Handling` – Testing how the app behaves with incorrect usernames or API failures <br/>
+<hr/>
