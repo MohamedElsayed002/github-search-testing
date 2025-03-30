@@ -15,3 +15,9 @@ Explore the app live <a href="https://github-search-testing.vercel.app/">Project
 `State Management` – Ensuring proper state updates and handling edge cases <br/>
 `Error Handling` – Testing how the app behaves with incorrect usernames or API failures <br/>
 <hr/>
+
+## Features 
+- Search for any GitHub user by username
+- Display user profile details, including repositories and followers
+- Charts for popular repositories and used programming languages
+- Fully tested with Vitest and MSW
