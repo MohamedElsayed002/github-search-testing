@@ -8,6 +8,13 @@ Explore the app live <a href="https://github-search-testing.vercel.app/">Project
 <br/>
 <hr/>
 
+## 1️⃣ Installation & Setup Guide
+
+### Clone the project  
+```bash
+git clone https://github.com/MohamedElsayed002/github-search-testing
+```
+
 <hr/>
 
 ## About the Project
